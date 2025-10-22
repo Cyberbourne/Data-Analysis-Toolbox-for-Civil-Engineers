@@ -44,5 +44,4 @@ Whether you want to fix bugs, optimize code, or share your own tool or dataset, 
 # 🧩 Author
 Raúl Galdeano Pazos
 Civil Engineer | Data & AI for Sustainable Infrastructure
-📍 Barcelona, Spain
 🔗 LinkedIn – Raúl Galdeano Pazos
