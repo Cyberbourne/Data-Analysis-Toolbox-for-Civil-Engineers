@@ -1,0 +1,5 @@
+Necessary packages:
+
+This file contains and suggests the necessary packages to run the profiler:
+    - Numpy
+    - Matplotlib
