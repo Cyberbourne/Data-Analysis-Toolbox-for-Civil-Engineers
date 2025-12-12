@@ -28,21 +28,6 @@ def W(Z, T, N_terms=50):
         W_sum += coef * exp_term * sin_term
 
     return W_sum
-
-#  Calcula la solución W(Z,T) de la ecuación dada mediante la serie:
-# W(Z,T) = sum_{n=0..∞} [ 4 / ((2n+1)π) * exp( -π^2 (2n+1)^2 T / 4 ) * sin( (2n+1)π Z / 2 ) ]
-
-# Parámetros:
-    # Z: array o float
-        # Coordenada espacial adimensional (0 <= Z <= 1).
-    # T: array o float
-        # Tiempo adimensional (T >= 0).
-    # N_terms: int
-        # Número de términos de la serie a utilizar.
-    # Devuelve
-    # W_sum : array o float
-        # Valor(es) de W(Z,T).
-
 # ============================================================
 # Plot Generator Creation Space: 
 # ============================================================
